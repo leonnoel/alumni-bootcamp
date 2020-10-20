@@ -36,6 +36,7 @@ The plan is broken down into 1 week chunks. Each week will have the following:
 - 💻 Practice Problems
 - 👩🏽‍💻 A project that you will submit via Github to receive feedback
 - 🚌 Lecture on most Wednesdays @ 6:30pm ET
+- 
 
 
 ## Weekly Plans
