@@ -22,8 +22,10 @@ A 10 week bootcamp to refresh the basics of OOP, get a command of Full Stack Jav
 ## Important Events:
 
 - 🗓️ Start Date Wed. 10/28/2020 @ 6:30pm
-- 🗓️ Final Interview w/ Leon
-- 🗓️ Hiring Partner Meet & Greet
+- 🗓️ Week 05 - Mock Interview w/ Leon
+- 🗓️ Week 06 - Hiring Partner Event
+- 🗓️ Week 10 - Final Interview w/ Leon
+- 🗓️ Week 11+ Get connected to hiring partners
 
 ‼️ More To Come ‼️
 
@@ -35,9 +37,9 @@ The plan is broken down into 1 week chunks. Each week will have the following:
 - 📼 Supplemental Videos To Watch
 - 💻 Practice Problems
 - 👩🏽‍💻 A project that you will submit via Github to receive feedback
-- 🚌 Lecture on most Wednesdays @ 6:30pm ET
-- ⚡️ Five networked connections and two coffee chats
-- 🧙 Technical Interview Prep - #pushEveryDay codewars / leetcode
+- 🚌 Lecture on Wednesdays @ 6:30pm ET
+- ⚡️ Five networked connections and two coffee chats a week due
+- 🧙 Technical Interview Prep - #pushEveryDay codewars / leetcode (7 code challenges due a week)
 
 
 ## Weekly Plans
