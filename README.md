@@ -23,9 +23,9 @@ A 10 week bootcamp to refresh the basics of OOP, get a command of Full Stack Jav
 
 - 🗓️ Start Date Wed. 10/28/2020 @ 6:30pm
 - 🗓️ Week 05 - Mock Interview w/ Leon
-- 🗓️ Week 06 - Hiring Partner Event
+- 🗓️ Week 06 - Hiring Partner Event - Thurdsay, December 10th from 5-7pm
 - 🗓️ Week 10 - Final Interview w/ Leon
-- 🗓️ Week 11+ Get connected to hiring partners
+- 🗓️ Week 11+ Get connected to hiring partners - Thursday, January 20th
 
 ‼️ More To Come ‼️
 
