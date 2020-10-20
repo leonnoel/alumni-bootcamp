@@ -57,7 +57,7 @@ The plan is broken down into 1 week chunks. Each week will have the following:
 
 
 ***
-## Week01
+## Week00
 
 | Day 01    | Material     | Why   |
 | ---------|:-------------:| :-----:|
