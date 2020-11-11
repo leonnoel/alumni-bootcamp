@@ -44,10 +44,10 @@ The plan is broken down into 1 week chunks. Each week will have the following:
 
 ## Weekly Plans
 - 🚀 [Week 0: **JS Review**](#week01)
-
-**Coming Soon**
 - 🚀 [Week 01: **Intro to React**](#week01)
 - 🚀 [Week 02: **Communicating with a server**](#week02)
+
+**Coming Soon**
 - 🚀 [Week 03: **Programming a server with NodeJS and Express**](#week03)
 - 🚀 [Week 04: **Testing Express servers, user administration**](#week04)
 - 🚀 [Week 05: **Testing React apps**](#week05)
@@ -102,4 +102,25 @@ The plan is broken down into 1 week chunks. Each week will have the following:
 | Do       | Refactor your Calculator and Resubmit  | Reinforce OOP and get comfortable submitting PRs on Github  |
 
 ***
+
+## Week01
+
+| Todo    | Material     | Why   |
+| ---------|:-------------:| :-----:|
+| Do     | [Fullstack Open Part 0](https://fullstackopen.com/en/part0) | Fundamentals of Web apps |
+| Do     | [Fullstack Open Part 1](https://fullstackopen.com/en/part1) | Introduction to React |
+| Slides   | [Week 01 Slides](https://slides.com/leonnoel/alumni-class01/live)      | Slides for this week |
+
+Homework:
+
+| Todo    | Material     | Why   |
+| ---------|:-------------:| :-----:|
+| Do     | [Fullstack Open Part 2](https://fullstackopen.com/en/part2) | Communicating With Server |
+| Do     | [Codewars](https:/codewars.com/) | Level 7kyu or lower! |
+| Read   | [Array Methods](https://javascript.info/array-methods)      | Refresh Array Methods |
+| Read   | [String Methods](https://levelup.gitconnected.com/essential-javascript-string-methods-f1841dad1961)      | Refresh String Methods |
+| Do     | [JS Algorithms Course](https://scotch.io/courses/the-ultimate-guide-to-javascript-algorithms) | Refresh Key JS Algorithms |
+| Watch     | [Big O Notation](https://youtu.be/v4cd1O4zkGw) | Refresh Big O Notation Fundamentals |
+| Do     | [Test Your Resume]( https://cvcompiler.com/) | Run your resume through to see what recruiters see don't pay |
+
 
