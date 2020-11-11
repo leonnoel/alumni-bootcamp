@@ -111,7 +111,7 @@ The plan is broken down into 1 week chunks. Each week will have the following:
 | Do     | [Fullstack Open Part 1](https://fullstackopen.com/en/part1) | Introduction to React |
 | Slides   | [Week 01 Slides](https://slides.com/leonnoel/alumni-class01/live)      | Slides for this week |
 
-###Homework:
+## Homework:
 
 | Todo    | Material     | Why   |
 | ---------|:-------------:| :-----:|
