@@ -129,7 +129,7 @@ The plan is broken down into 1 week chunks. Each week will have the following:
 
 | Todo    | Material     | Why   |
 | ---------|:-------------:| :-----:|
-| Do     | [Fullstack Open Part 2](https://fullstackopen.com/en/part) | Communicating With Server |
+| Do     | [Fullstack Open Part 2](https://fullstackopen.com/en/part2) | Communicating With Server |
 
 ## Homework Submission:
 
@@ -141,8 +141,16 @@ The plan is broken down into 1 week chunks. Each week will have the following:
 | Coding Challenges Week 00    | [Submission](https://github.com/Resilient-Labs/alumni-week01-coding-challenges) |
 | Coding Challenges Week 01   | [Submission](https://github.com/Resilient-Labs/alumni-week2-coding-challenges) |
 
+## Classwork Submission:
+
+| Work    | Submission Link     |
+| ---------|:-------------:|
+| Challenge 01    | [Submission](https://github.com/Resilient-Labs/alumni-class-coding-challenge01) |
+| Challenge 02    | [Submission](https://github.com/Resilient-Labs/alumni-class-coding-challenge02) |
+| Challenge 03     | [Submission](https://github.com/Resilient-Labs/alumni-class-coding-challenge03) |
+
 ## Homework:
 
 | Todo    | Material     | Why   |
 | ---------|:-------------:| :-----:|
-
+| Do     | [Fullstack Open Part 3](https://fullstackopen.com/en/part3) | Programming a server with NodeJS and Express |
