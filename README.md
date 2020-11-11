@@ -123,4 +123,26 @@ The plan is broken down into 1 week chunks. Each week will have the following:
 | Watch     | [Big O Notation](https://youtu.be/v4cd1O4zkGw) | Refresh Big O Notation Fundamentals |
 | Do     | [Test Your Resume]( https://cvcompiler.com/) | Run your resume through to see what recruiters see don't pay |
 
+***
+
+## Week02
+
+| Todo    | Material     | Why   |
+| ---------|:-------------:| :-----:|
+| Do     | [Fullstack Open Part 2](https://fullstackopen.com/en/part) | Communicating With Server |
+
+## Homework Submission:
+
+| Work    | Submission Link     |
+| ---------|:-------------:|
+| FullStack Open Part 00 Exercises 0.1 - 0.6    | [Submission Part 0](https://github.com/Resilient-Labs/alumni-exercises-0.1-0.6) |
+| FullStack Open Part 01 Exercises 1.1 - 1.14    | [Submission Part 1](https://github.com/Resilient-Labs/alumni-exercises-1.1-1.14) |
+| FullStack Open Part 02 Exercises 2.1 - 2.20     | [Fullstack Open Part 2](https://github.com/Resilient-Labs/alumni-exercises-2.1-2.20) |
+| Coding Challenges Week 00    | [Submission](https://github.com/Resilient-Labs/alumni-week01-coding-challenges) |
+| Coding Challenges Week 01   | [Submission](https://github.com/Resilient-Labs/alumni-week2-coding-challenges) |
+
+## Homework:
+
+| Todo    | Material     | Why   |
+| ---------|:-------------:| :-----:|
 
