@@ -46,9 +46,9 @@ The plan is broken down into 1 week chunks. Each week will have the following:
 - 🚀 [Week 0: **JS Review**](#week01)
 - 🚀 [Week 01: **Intro to React**](#week01)
 - 🚀 [Week 02: **Communicating with a server**](#week02)
+- 🚀 [Week 03: **Programming a server with NodeJS and Express**](#week03)
 
 **Coming Soon**
-- 🚀 [Week 03: **Programming a server with NodeJS and Express**](#week03)
 - 🚀 [Week 04: **Testing Express servers, user administration**](#week04)
 - 🚀 [Week 05: **Testing React apps**](#week05)
 - 🚀 [Week 06: **State management with Redux**](#week06)
