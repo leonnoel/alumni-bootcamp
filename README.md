@@ -177,3 +177,24 @@ The plan is broken down into 1 week chunks. Each week will have the following:
 | ---------|:-------------:| :-----:|
 | Do     | [Fullstack Open Part 4](https://fullstackopen.com/en/part4) | Testing Express servers, user administration |
 
+***
+
+## Week04
+
+| Todo    | Material     | Why   |
+| ---------|:-------------:| :-----:|
+| Do     | [Fullstack Open Part 4](https://fullstackopen.com/en/part4) | Testing Express servers, user administration |
+
+## Homework Submission:
+
+| Work    | Submission Link     |
+| ---------|:-------------:|
+| FullStack Open Part 04 Exercises 3.1 - 3.22     | [Submission Part 4](https://github.com/Resilient-Labs/alumni-exercises-4.1-4.22) |
+| Coding Challenges Week 04   | [Submission](https://github.com/Resilient-Labs/alumni-week4-coding-challenges) |
+
+## Homework:
+
+| Todo    | Material     | Why   |
+| ---------|:-------------:| :-----:|
+| Do     | Prep for mock interview | Please book a time using the link on slack |
+
