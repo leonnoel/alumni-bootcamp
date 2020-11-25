@@ -189,7 +189,7 @@ The plan is broken down into 1 week chunks. Each week will have the following:
 
 | Work    | Submission Link     |
 | ---------|:-------------:|
-| FullStack Open Part 04 Exercises 3.1 - 3.22     | [Submission Part 4](https://github.com/Resilient-Labs/alumni-exercises-4.1-4.22) |
+| FullStack Open Part 04 Exercises 4.1 - 4.22     | [Submission Part 4](https://github.com/Resilient-Labs/alumni-exercises-4.1-4.22) |
 | Coding Challenges Week 04   | [Submission](https://github.com/Resilient-Labs/alumni-week4-coding-challenges) |
 
 ## Homework:
